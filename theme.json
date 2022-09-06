@@ -1,0 +1,76 @@
+{
+	"settings": {
+		"color": {
+			"palette": [
+				{
+					"color": "#1D201F",
+					"name": "Foreground",
+					"slug": "foreground"
+				},
+				{
+					"color": "#FFFFFF",
+					"name": "Background",
+					"slug": "background"
+				},
+				{
+					"color": "#ff0df6",
+					"name": "Primary",
+					"slug": "primary"
+				},
+				{
+					"color": "#777979",
+					"name": "Secondary",
+					"slug": "secondary"
+				},
+				{
+					"color": "#E4E4E4",
+					"name": "Tertiary",
+					"slug": "tertiary"
+				},
+				{
+					"color": "#F4F4F4",
+					"name": "Quaternary",
+					"slug": "quaternary"
+				}
+			]
+		},
+		"typography": {
+			"fontFamilies": [
+				{
+					"fontFace": [
+						{
+							"fontFamily": "Josefin Sans",
+							"fontStretch": "normal",
+							"fontStyle": "oblique 0deg 10deg",
+							"fontWeight": "100 900",
+							"src": [
+								"file:./assets/fonts/josefin-sans-v25-latin-regular.woff2"
+							]
+						}
+					],
+					"fontFamily": "Josefin Sans",
+					"name": "Josefin Sans",
+					"slug": "josefin-sans"
+				},
+				{
+					"fontFace": [
+						{
+							"fontFamily": "Fractul",
+							"fontStretch": "normal",
+							"fontStyle": "oblique 0deg 10deg",
+							"fontWeight": "100 900",
+							"src": [
+								"file:./assets/fonts/Fractul-Regular.woff2"
+							]
+						}
+					],
+					"fontFamily": "Fractul",
+					"name": "Fractul",
+					"slug": "fractul"
+				}
+			]
+		}
+	},
+	"version": 2,
+	"$schema": "https://schemas.wp.org/wp/6.0/theme.json"
+}
