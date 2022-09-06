@@ -1,2 +1,3 @@
 # pochi
-the child theme of Poe by Anders Noren.
+This is a child theme of Poe. 
+A repository for my child theme creation blog post at https://franzaurus.wordpress.com/2022/09/06/create-yourself-a-child-block-theme/
